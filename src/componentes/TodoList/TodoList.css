@@ -60,3 +60,18 @@ button[type="submit"]:hover {
    
 
 }
+
+
+@media screen and ( max-width: 362px ) {
+
+
+    form {
+        display: flex;
+        margin-bottom: 20px;
+        width: 85vw;
+    }
+
+    
+    
+
+}
