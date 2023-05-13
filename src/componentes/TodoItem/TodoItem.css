@@ -29,3 +29,25 @@ button {
 button:hover {
     background-color: #c82333;
 }
+
+
+@media screen and ( max-width: 545px ) {
+
+    li {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: #f8f9fa;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 10px;
+        margin-bottom: 10px;
+        width: 75vw;
+
+    }
+    
+
+    
+
+}
+

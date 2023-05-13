@@ -36,3 +36,27 @@ button[type="submit"] {
 button[type="submit"]:hover {
     background-color: #0052a3;
 }
+
+@media screen and ( max-width: 525px ) {
+
+
+    form {
+        display: flex;
+        margin-bottom: 20px;
+        width: 70vw;
+    }
+
+
+}
+
+@media screen and ( max-width: 404px ) {
+
+    form {
+        display: flex;
+        margin-bottom: 20px;
+        width: 75vw;
+    }
+
+   
+
+}
